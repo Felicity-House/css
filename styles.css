@@ -1,0 +1,85 @@
+body {
+    font-family: 'Baloo Bhai', cursive;
+    background-color: lightgray;
+
+}
+.pic {
+    display: inline-block;
+height: 50px;
+width: 50px;
+background-color: yellowgreen;
+border-radius: 50px;
+}
+.listdiv {
+    border: 2px black;
+    border-style: solid;
+   
+}
+.list{
+    color: brown;
+}
+.pword {
+    color: rebeccapurple;
+    font-weight: 200;
+}
+a:hover {
+    font-weight: 700;
+    color: teal;
+    cursor: pointer;
+}
+
+.readme-wrapper {
+    text-decoration: none;
+    text-align: center;
+}
+
+h2, p, div a:link {
+    text-align: center;
+    display: inline-block;
+}
+.additional {
+    color: violet;
+}
+.original {
+  color: blue;
+}
+
+.container {
+position: relative;
+}
+
+.boxes {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    padding-top: 15px;
+  padding-right: 20px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  border: 1px solid blue;
+  border-style: groove; 
+  border-radius: 40px;
+  border-width: 2em;
+  width: 24rem;
+}
+
+#box1 {
+    background-color: red;
+}
+#box2 {
+    background-color: green;
+   }
+#box3 {
+    background-color: orangered;
+}
+#box4 {
+    background-color: paleturquoise;
+}
+
+.star {
+    color: indigo;
+}
+
+#wars {
+    color: lawngreen;
+}
